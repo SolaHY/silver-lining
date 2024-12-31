@@ -119,7 +119,7 @@ class PortfolioPage extends StatelessWidget {
                   ),
                   const SizedBox(height: 10),
                   const Text(
-                    "Email: your.email@example.com",
+                    "Email: akahoshi.thesilverlining@gmail.com",
                     style: TextStyle(fontSize: 14, color: Colors.white),
                   ),
                   const SizedBox(height: 10),
